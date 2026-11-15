@@ -1,0 +1,8 @@
+# Dependencies for the companion notebook.
+# The versions below are the ones used to produce the published figures;
+# replace them with the output of `pip freeze` from your own environment
+# if you re-run the experiments elsewhere.
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.6
